@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm a researcher and software developer with extensive experience in computer science, data
+science, computer vision, and 2D/3D visualization. Skilled in Python, C++, Matlab and R, with a
+strong academic background as an Assistant Professor. Proven ability to lead and collaborate in
+multidisciplinary projects, communicate effectively across diverse teams, and mentor students in
+technical domains. Passionate about electronics, robotics, drones, and industrial applications,
+seeking a transition to industry to apply academic knowledge in real-world environments.
+
 <!--
 **marekkoc/marekkoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
