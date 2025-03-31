@@ -14,7 +14,7 @@ seeking a transition to industry to apply academic knowledge in real-world envir
 
 
 
-📫 How to reach me: [web](https://marekkoc.github.io), [LinkedIn](https://www.linkedin.com/in/marek-kocinski-285a64110/)
+
 
 <!--
 **marekkoc/marekkoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+  📫 How to reach me: [web](https://marekkoc.github.io), [LinkedIn](https://www.linkedin.com/in/marek-kocinski-285a64110/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
