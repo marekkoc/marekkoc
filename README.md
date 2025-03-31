@@ -7,6 +7,11 @@ multidisciplinary projects, communicate effectively across diverse teams, and me
 technical domains. Passionate about electronics, robotics, drones, and industrial applications,
 seeking a transition to industry to apply academic knowledge in real-world environments.
 
+Repo: [uib-helse-bergen](./uib-helse-bergen)
+
+
+📫 How to reach me: [web](https://marekkoc.github.io), [LinkedIn](https://www.linkedin.com/in/marek-kocinski-285a64110/)
+
 <!--
 **marekkoc/marekkoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
