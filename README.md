@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!
 
 I'm a researcher and software developer with extensive experience in computer science, data
 science, computer vision, and 2D/3D visualization. Skilled in Python, C++, Matlab and R, with a
