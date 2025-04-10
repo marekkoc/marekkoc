@@ -1,11 +1,6 @@
 ## Hi!
 
-I'm a researcher and software developer with extensive experience in computer science, data
-science, computer vision, and 2D/3D visualization. Skilled in Python, C++, Matlab and R, with a
-strong academic background as an Assistant Professor. Proven ability to lead and collaborate in
-multidisciplinary projects, communicate effectively across diverse teams, and mentor students in
-technical domains. Passionate about electronics, robotics, drones, and industrial applications,
-seeking a transition to industry to apply academic knowledge in real-world environments.
+I'm a researcher and software developer specializing in computer science, data science, computer vision, and 2D/3D visualization. Proficient in Python, C++, Matlab and R, with academic expertise as an Assistant Professor. I excel at leading multidisciplinary projects, fostering collaboration across diverse teams, and mentoring students in technical domains. With a passion for electronics, robotics, drones, and industrial applications, I'm looking to apply my academic knowledge in practical industry environments. My repositories showcase implementations of visualization techniques, data processing algorithms, and computer vision solutions.
 
 
 
