@@ -3,6 +3,9 @@
 I'm a researcher and software developer specializing in computer science, data science, computer vision, and 2D/3D visualization, with extensive experience in AI, machine learning, and deep learning. Proficient in Python, C++, Matlab and R, with academic expertise as an Assistant Professor. I excel at leading multidisciplinary projects, fostering collaboration across diverse teams, and mentoring students in technical domains. With a passion for electronics, robotics, drones, and smart homes, I'm looking to apply my academic knowledge in practical industry environments. My repositories showcase implementations of visualization techniques, data processing algorithms, AI models, and computer vision solutions.
 
 
+**Repo:** [uib-helse-bergen](https://github.com/marekkoc/uib-helse-bergen)
+
+
 # Selected projects:
 1. [Geometric modeling of blood vessels](https://github.com/marekkoc/blood-vessels-modeling)
    - [3D image texture analysis of simulated and real-world vascular trees](https://github.com/marekkoc/vascular-tree-3D-texture-analysis)
@@ -29,10 +32,6 @@ I'm a researcher and software developer specializing in computer science, data s
 1. Medical Imaging
 1. Digital signal processing
 
-
-
-
-**Repo:** [uib-helse-bergen](https://github.com/marekkoc/uib-helse-bergen)
 
 
 
