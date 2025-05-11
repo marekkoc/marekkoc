@@ -5,12 +5,11 @@ I'm a researcher and software developer specializing in computer science, data s
 **Repos:**
 1. [Project arvhive](https://github.com/marekkoc/project-archive),
 2.  [uib-helse-bergen](https://github.com/marekkoc/uib-helse-bergen).
-
 <br>
-___
+<hr>
+<br>
 
 ## Skills
-
 ### Programming Languages
 - **Python** (Advanced), **C++**, Matlab, R, Bash
 
