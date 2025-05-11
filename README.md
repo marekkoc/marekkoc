@@ -6,7 +6,6 @@ I'm a researcher and software developer specializing in computer science, data s
 1. [Project arvhive](https://github.com/marekkoc/project-archive),
 2.  [uib-helse-bergen](https://github.com/marekkoc/uib-helse-bergen).
 
-
 ## Skills
 
 ### Programming Languages
@@ -16,10 +15,15 @@ I'm a researcher and software developer specializing in computer science, data s
 - **R** (Proficient)
 - **Bash** scripting
 
-### Software Development
-- **GUI Frameworks**: Qt, WxWidgets, Tkinter
-- **Version Control**: Git
-- **Operating Systems**: Linux
+### Computer Vision & AI
+- OpenCV, PyTorch, TensorFlow
+- 3D Medical Visualization
+- Deep Learning for Medical Imaging
+
+### Tools & Others
+- Git, Docker
+- Medical Image Analysis
+- 3D Rendering
 
 ### Computer Vision & Medical Imaging
 - **Visualization Libraries**: OpenGL, VTK, Paraview
@@ -28,22 +32,23 @@ I'm a researcher and software developer specializing in computer science, data s
 
 ### Data Science & Machine Learning
 - **Data Analysis**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn
+- **Visualization**: Matplotlib, Seaborn, Plotly, Dash
 - **Machine Learning**: scikit-learn
 - **Deep Learning**: PyTorch, FastAI
 
+### Software Development
+- **GUI Frameworks**: Qt, WxWidgets, Tkinter
+- **Version Control**: Git
+- **Operating Systems**: Linux
+
 ### Documentation & Publishing
-- LaTeX
-- LibreOffice
+- LaTeX, LibreOffice
 
 ## Professional Interests
 - Electronics (embedded systems, robotics)
 - Microcontrollers & FPGAs
 - Drone technology
 - Smart home systems & IoT
-- Photography
-- Hiking
-- Cooking
 
 
 <!--
