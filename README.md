@@ -9,47 +9,29 @@ I'm a researcher and software developer specializing in computer science, data s
 ## Skills
 
 ### Programming Languages
-- **Python** (Advanced)
-- **C++** (Proficient)
-- **Matlab** (Proficient)
-- **R** (Proficient)
-- **Bash** scripting
-
-### Computer Vision & AI
-- OpenCV, PyTorch, TensorFlow
-- 3D Medical Visualization
-- Deep Learning for Medical Imaging
-
-### Tools & Others
-- Git, Docker
-- Medical Image Analysis
-- 3D Rendering
+- **Python** (Advanced), **C++**, Matlab, R, Bash
 
 ### Computer Vision & Medical Imaging
-- **Visualization Libraries**: OpenGL, VTK, Paraview
-- **Medical Image Processing**: ITK, ITK-SNAP
-- **Medical Formats**: DICOM, NIfTI
+- **Core**: ITK, OpenCV, ITK-SNAP
+- **Visualization**: VTK, OpenGL, Paraview
+- **Formats**: DICOM, NIfTI
 
-### Data Science & Machine Learning
-- **Data Analysis**: Pandas, NumPy
+### AI & Machine Learning
+- **Deep Learning**: PyTorch, FastAI, Monai
+- **ML Libraries**: scikit-learn
+- **Data Science**: Pandas, NumPy, Scipy
 - **Visualization**: Matplotlib, Seaborn, Plotly, Dash
-- **Machine Learning**: scikit-learn
-- **Deep Learning**: PyTorch, FastAI
 
-### Software Development
-- **GUI Frameworks**: Qt, WxWidgets, Tkinter
-- **Version Control**: Git
-- **Operating Systems**: Linux
+### Development Tools
+- **GUI**: Qt, WxWidgets, Tkinter
+- **DevOps**: Git, Docker, Linux
+- **Documentation**: LaTeX
 
-### Documentation & Publishing
-- LaTeX, LibreOffice
-
-## Professional Interests
-- Electronics (embedded systems, robotics)
-- Microcontrollers & FPGAs
-- Drone technology
-- Smart home systems & IoT
-
+## Interests
+- Electronics (embedded systems, robotics, FPGAs)
+- Computer Vision & 3D Visualization
+- Medical Image Analysis
+- IoT & Smart Home Technology
 
 <!--
 **marekkoc/marekkoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
