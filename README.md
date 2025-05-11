@@ -7,7 +7,7 @@ I'm a researcher and software developer specializing in computer science, data s
 2.  [uib-helse-bergen](https://github.com/marekkoc/uib-helse-bergen).
 
 <br>
-----
+---
 
 ## Skills
 
