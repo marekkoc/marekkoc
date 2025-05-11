@@ -7,6 +7,44 @@ I'm a researcher and software developer specializing in computer science, data s
 2.  [uib-helse-bergen](https://github.com/marekkoc/uib-helse-bergen).
 
 
+## Skills
+
+### Programming Languages
+- **Python** (Advanced)
+- **C++** (Proficient)
+- **Matlab** (Proficient)
+- **R** (Proficient)
+- **Bash** scripting
+
+### Software Development
+- **GUI Frameworks**: Qt, WxWidgets, Tkinter
+- **Version Control**: Git
+- **Operating Systems**: Linux
+
+### Computer Vision & Medical Imaging
+- **Visualization Libraries**: OpenGL, VTK, Paraview
+- **Medical Image Processing**: ITK, ITK-SNAP
+- **Medical Formats**: DICOM, NIfTI
+
+### Data Science & Machine Learning
+- **Data Analysis**: Pandas, NumPy
+- **Visualization**: Matplotlib, Seaborn
+- **Machine Learning**: scikit-learn
+- **Deep Learning**: PyTorch, FastAI
+
+### Documentation & Publishing
+- LaTeX
+- LibreOffice
+
+## Professional Interests
+- Electronics (embedded systems, robotics)
+- Microcontrollers & FPGAs
+- Drone technology
+- Smart home systems & IoT
+- Photography
+- Hiking
+- Cooking
+
 
 <!--
 **marekkoc/marekkoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
