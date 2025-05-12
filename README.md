@@ -15,13 +15,20 @@ I'm a researcher and software developer specializing in computer science, data s
 - **Python** (Advanced), **C++**, Matlab, R, Bash
 
 ### Computer Vision & Medical Imaging
-**Core**: ITK, OpenCV, ITK-SNAP; **Visualization**: VTK, OpenGL, Paraview;  **Formats**: DICOM, NIfTI
+- **Core**: ITK, OpenCV, ITK-SNAP;
+- **Visualization**: VTK, OpenGL, Paraview;
+-   **Formats**: DICOM, NIfTI
 
 ### AI & Machine Learning
-**Deep Learning**: PyTorch, FastAI, Monai; **ML Libraries**: scikit-learn;  **Data Science**: Pandas, NumPy, Scipy; **Visualization**: Matplotlib, Seaborn, Plotly, Dash
+- **Deep Learning**: PyTorch, FastAI, Monai;
+- **ML Libraries**: scikit-learn;
+- **Data Science**: Pandas, NumPy, Scipy;
+- **Visualization**: Matplotlib, Seaborn, Plotly, Dash
 
 ### Development Tools
-**GUI**: Qt, WxWidgets, Tkinter; **DevOps**: Git, Docker, Linux; **Documentation**: LaTeX
+- **GUI**: Qt, WxWidgets, Tkinter;
+- **DevOps**: Git, Docker, Linux;
+- **Documentation**: LaTeX
 
 ## Interests
 - Electronics (embedded systems, robotics, FPGAs)
