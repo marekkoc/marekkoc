@@ -5,10 +5,6 @@ I'm a researcher and software developer specializing in computer science, data s
 [About me and project arvhive](https://github.com/marekkoc/project-archive),
 
 <!--2.  [uib-helse-bergen](https://github.com/marekkoc/uib-helse-bergen).-->
-<br>
-<hr>
-<br>
-
 
 <!--
 **marekkoc/marekkoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
