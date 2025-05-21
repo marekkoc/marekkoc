@@ -5,7 +5,7 @@ I'm a researcher and software developer specializing in computer science, data s
 **Repos:**
 1. [About me and project arvhive](https://github.com/marekkoc/project-archive),
 
-2.  [uib-helse-bergen](https://github.com/marekkoc/uib-helse-bergen).
+<!--2.  [uib-helse-bergen](https://github.com/marekkoc/uib-helse-bergen).-->
 <br>
 <hr>
 <br>
